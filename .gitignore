@@ -1,0 +1,13 @@
+node_modules
+.env
+dist
+build
+.DS_Store
+.pocketbase
+pocketbase
+poc
+pb_data
+pb_public
+*.log
+.vscode
+.idea
