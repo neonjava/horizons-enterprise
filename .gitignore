@@ -11,3 +11,7 @@ pb_public
 *.log
 .vscode
 .idea
+
+app.tar.gz
+.env.*
+!.env.example
